@@ -1,9 +1,13 @@
-Lets say you toss a coin.  Lets call it a fair coin (in that has an equal chance of landing on either side).  Lets also call the two sides of the coin Heads and Tails or just H and T.
+Lets say you toss a coin.  Lets call it a fair coin (in that it has an equal chance of landing on either side).  Lets also call the two sides of the coin Heads and Tails or just H and T.
 As we flip the coin, now lets keep track of how many heads and tails we get.  So we can write H or T for each flip of the coin. After ten flips we can count up the Hs and Ts.  How many of each did you get?
 We can continue flipping coins, after ten more flips how many heads and tails do you get? 
 There are two numbers we can determine.  The first is what should you expect is the proportion of heads you should see. Next, what is the proportion of heads that you actually count during your experiement.    
 Since a coin has two sides, you should expect to see see half are heads.  50% is the expected proportion. 
-To get the actual prportion, count the total flips and count the heads, divide the numbers of heads over the toal to get the actual proportion.  
-Here is a set of flips recorded.  {HHTHT THHTH} How many flips and how many heads? SWhat is the proportion of heads?
+To get the actual prportion, count the total flips and count the heads, divide the numbers of heads over the toal to get the actual proportion. 
+
+Questions:
+Here is a set of flips recorded.  {HHTHT THHTH} How many flips and how many heads? So what is the proportion of heads?
 What is the probability of the next flip being a head?
 As you continue flipping coins, what do you notice about the actual proportion and the expected proportion of heads?
+What is the proportion of tails?
+If you add the proportion of heads and tails what do you get and why?
