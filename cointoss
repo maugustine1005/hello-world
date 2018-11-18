@@ -1,0 +1,2 @@
+Lets say you toss a coin.  Lets call it a fair coin (in that has an equal chance of landing on either side).  Lets also call the two  sides of the coin Heads and Tails or just H and T.
+As we flip the coin, lets keep track of how many heads and tails we get.  So we can write H or T for each flip of the coin. After ten flips we can count up the Hs and Ts.  How many of each did you get?
