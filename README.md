@@ -1,8 +1,9 @@
 # hello-world
-Everything starts someplace
+Everything starts someplace!
 
-Welcome to my git hub space.  
-I have been a professional programmer, analyst and statistician for the past over thirty years.
+Welcome to my git hub space. 
+
+I have been a professional programmer, analyst and statistician for over the past thirty years.
 My plan is to port over python, R and other programs for future development and release.
 I also plan to learn a lot and teach others.
 
