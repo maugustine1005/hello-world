@@ -26,9 +26,12 @@ If you add the proportion of heads and tails what do you get and why?
 This leads us to our first computer exercise.
 </p>
 <h4>Exercise: Model a coin toss experiment in Excel</h4>
-Open Excel.  
+<br/>
+Open Excel. 
+<p>
 On a blank tab, type the following in cell A1 'Coin Toss'. In cell A2 type '1'.
 In cell B1 type 'Trial 1'. 
 In Cell B2, type '=mid("HT",int(2*rand(0)),1)
 Select Cells A2 and B2 and drag them down to B21.
 Then select cell B1 to B21 and drag across to K21.
+</p>
