@@ -17,14 +17,18 @@ Therefore 50% is the expected proportion.
 To get the actual proportion, count the total tosses and count the heads, divide the numbers of heads by the total to get the actual proportion. 
 </p>
 <h4>Questions<h4/>
-<p>Here is a set of flips recorded.  {HHTHT THHTH} How many flips and how many heads? So what is the proportion of heads?
-What is the probability of the next flip being a head?
-As you continue flipping coins, what do you notice about the actual proportion and the expected proportion of heads?
+<p>Here is a set of tosses recorded.  {HHTHT THHTH} How many flips and how many heads? So what is the proportion of heads?
+What is the probability of the next toss being a head?
+As you continue tossing coins, what do you notice about the actual proportion and the expected proportion of heads?
 What is the proportion of tails?
 If you add the proportion of heads and tails what do you get and why?
-</p>
-<p>
+<br/>
 This leads us to our first computer exercise.
 </p>
-<h4>Exercise</h4>
-Open Excel.  On blank tab, type the following in cell A1 'Coin Toss'. In Cell A2, type '=mid("HT",int(2*rand(0)),1)
+<h4>Exercise: Model a coin toss experiment in Excel</h4>
+Open Excel.  
+On a blank tab, type the following in cell A1 'Coin Toss'. In cell A2 type '1'.
+In cell B1 type 'Trial 1'. 
+In Cell B2, type '=mid("HT",int(2*rand(0)),1)
+Select Cells A2 and B2 and drag them down to B21.
+Then select cell B1 to B21 and drag across to K21.
