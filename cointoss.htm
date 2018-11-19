@@ -1,0 +1,37 @@
+<h3>Probability</h3>
+<br/>
+<h4>Toss a coin</h4>
+<p>Lets say you toss a coin; and lets call it a fair coin (in that it has an equal chance of landing on either side).  
+Lets also call the two sides of the coin 'Heads' and 'Tails' or just 'H' and 'T' for short.
+As we toss the coin, keep track of how many heads and tails we get.  
+To do this we can write 'H' or 'T' for each toss of the coin. 
+After ten tosses we can count up the 'H's and 'T's.  
+How many of each did you get?  
+How many times did you toss your coin?
+Continue tossing the coin; after ten more tosses how many heads and tails do you get? 
+There are two numbers we can determine.  
+The first is what should you expect is the proportion of heads you should see. 
+Next, what is the proportion of heads that you actually count during your experiement.    
+Since a coin has two possible outcomes and each are possible; you should expect to see see half are heads. 
+Therefore 50% is the expected proportion.   
+To get the actual proportion, count the total tosses and count the heads, divide the numbers of heads by the total to get the actual proportion. 
+</p>
+<h4>Questions<h4/>
+<p>Here is a set of tosses recorded.  {HHTHT THHTH} How many flips and how many heads? So what is the proportion of heads?
+What is the probability of the next toss being a head?
+As you continue tossing coins, what do you notice about the actual proportion and the expected proportion of heads?
+What is the proportion of tails?
+If you add the proportion of heads and tails what do you get and why?
+<br/>
+This leads us to our first computer exercise.
+</p>
+<h4>Exercise: Model a coin toss experiment in Excel</h4>
+Open Excel.  
+<p>
+On a blank tab, type the following in cell A1, 'Coin Toss'. 
+In cell A2 type '1'.
+In cell B1 type 'Trial 1'. 
+In Cell B2, type the formula =mid("HT",int(2*rand(0)),1)
+Select Cells A2 to B2 and drag them down to B21.
+Then select cells B1 to B21 and drag across to K21.
+</p>
